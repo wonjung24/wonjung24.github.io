@@ -1,5 +1,4 @@
-### 신원정
-
+###<p align="center">신원정</p> 
 ### <p align="center">agile D</p>
 
 #### <p align="center">managed D -> organized D</p>
