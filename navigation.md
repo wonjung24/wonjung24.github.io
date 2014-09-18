@@ -1,5 +1,10 @@
 # D
 
+[wonjung]()
+
+  * # wonjung?
+  * [wonjung](wonjung.md)
+
 [todo]()
 
   * # todo
@@ -13,7 +18,7 @@
   * # agile web
   * [mdwiki](dev-agile_web-mdwiki.md)
 
-[design](fonts.md)
+[design]()
 
   * # useful assests
   * [fonts](fonts.md)
