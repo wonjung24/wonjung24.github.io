@@ -1,8 +1,4 @@
 신원정 바보 똥개.
-마우스 찾기!
-신원정이 드로잉을 하네... 우와아--
-
-두호랑 같이같이.
 
 <p align="center">
 <iframe src="//player.vimeo.com/video/77317901?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1" width="300" height="205" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
