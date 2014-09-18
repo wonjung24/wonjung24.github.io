@@ -8,27 +8,18 @@
 
 [research]()
 
-  * # zine sprint
-  * [collab](zine-collab.md)
+  * [zine sprint](zine-collab.md)
 
 [something]()
 
-  * # zine sprint
-  * [something](zine-collab.md)
+  * [music](music.md)
 
 [wow]()
 
-  * # useful assests
   * [wow](wow.md)
-
-[others]()
-
-  * # useful assests
-  * [others](wow.md)
 
 [tool]()
 
-  * # useful assests
   * [tool](wow.md)
 
   
