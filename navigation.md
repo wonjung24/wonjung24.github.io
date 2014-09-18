@@ -13,7 +13,7 @@
   * # agile web
   * [mdwiki](dev-agile_web-mdwiki.md)
 
-[design]()
+[design](fonts.md)
 
   * # useful assests
   * [fonts](fonts.md)
