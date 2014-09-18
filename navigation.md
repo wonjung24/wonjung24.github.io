@@ -13,23 +13,17 @@
   * # unmakelab_track5
   * [unmake](unmakelab.md)
 
-[develop]()
-
-  * # agile web
-  * [mdwiki](dev-agile_web-mdwiki.md)
-
-[design]()
-
-  * # useful assests
-  * [fonts](fonts.md)
-
 [research]()
 
   * # zine sprint
   * [collab](zine-collab.md)
 
-[tips]()
+[something]()
 
-  * [wordpress](tips-wordpress.md)
+  * # zine sprint
+  * [something](zine-collab.md)
 
-[about](about.md)
+[wow]()
+
+  * # useful assests
+  * [wow](wow.md)
