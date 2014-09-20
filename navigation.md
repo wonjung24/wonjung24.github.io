@@ -1,13 +1,17 @@
 # W
 
+[daystory]()
+
+  * [daystory](daystory.md)
+
 [todo]()
 
   * [todo](todo.md)
-  - - - -
-  * [unmake](unmakelab.md)
 
 [research]()
 
+  * [unmake](unmakelab.md)
+  * [As Is Club](asisclub.md)
   * [zine sprint](zine-collab.md)
 
 [something]()
@@ -16,12 +20,13 @@
   * [music](music.md)
 
 [wow]()
-
+  
+  * [text](text.md)
   * [wow](wow.md)
 
 [tool]()
 
-  * [tool](wow.md)
+  * [tool](tool.md)
 
   
 
