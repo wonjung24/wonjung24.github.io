@@ -14,16 +14,12 @@
   * [As Is Club](asisclub.md)
   * [zine sprint](zine-collab.md)
 
-[something]()
+[wow]()
 
   * [words](words.md)
   * [music](music.md)
   * [film](film.md)
   * [book](book.md)
-
-
-[wow]()
-  
   * [text](text.md)
   * [wow](wow.md)
 
