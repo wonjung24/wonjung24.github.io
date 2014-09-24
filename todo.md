@@ -3,7 +3,9 @@
 
 
 Now todo
-+사진, 글, 정보 자료 저장 방식, 그리고 열람 방식 구축
+
++터치 밴딩... 다양한 방법들.. 근데 왜 무엇을 하고 있는지도 계속 쓰고 고민해야..
++대학로 프로젝트의 방향과, 어떤 리서치를 할지 깊게 고민해봐야
 + zine sprint 작업하기
 +로봇 공방(나비) 워크숍 계획 이야기 하기 
 +As Is Club,,,, 언메이크랩 홈페이지에 쓰여진 글 수정 보완하기
@@ -54,9 +56,6 @@ Tomorrow todo
 urgent matters</span>
 
 
-
-> * 로봇공방 - 웍숍 10/4 - 구체적 계획
-> * sign6 답메일 쓰기
 
 
 <span style="color:yellow; background-color:black">
