@@ -13,6 +13,7 @@
   * [unmake](unmakelab.md)
   * [As Is Club](asisclub.md)
   * [zine sprint](zine-collab.md)
+  * [performance](performance.md)
 
 [wow]()
 
