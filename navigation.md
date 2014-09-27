@@ -19,7 +19,7 @@
 [wow]()
 
   * [wow](wow.md)
-  * [cultur](culture.md)
+  * [culture](culture.md)
   * [book](book.md)
   * [text](text.md)
   * [words](words.md)
