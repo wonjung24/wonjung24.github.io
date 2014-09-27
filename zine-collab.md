@@ -1,3 +1,6 @@
+
+지금 하고 있는 종이 서킷 진으로 만들어보기
+
 # zine sprint collaboration (공동 작업)
 
 ## zine sprint google doc writing movie (워딩중계? -> 워딩녹화..)
