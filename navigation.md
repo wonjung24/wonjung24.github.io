@@ -23,6 +23,7 @@
   * [book](book.md)
   * [text](text.md)
   * [words](words.md)
+  * [peoples](peoples.md)
 
 
 [tool]()
