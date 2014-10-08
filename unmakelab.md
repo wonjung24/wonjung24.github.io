@@ -9,6 +9,10 @@
 
 자세히는 모르겠는데 뭔가 연결이 있는 것들
 
+
+에브리데이 해킹
+http://fffff.at/tag/manual-book-speedproject/
+
 사람 오브젝트 -> 공연성
 http://www.domusweb.it/content/domusweb/it/architettura/2014/07/28/dietro_le_quinte_del_bauhaus.html
 
