@@ -15,6 +15,8 @@
 
 자세히는 모르겠는데 뭔가 연결이 있는 것들
 
+비주얼 디텍티브 헤어벤
+https://www.facebook.com/thevisualdetective?fref=ts
 
 에브리데이 해킹
 http://fffff.at/tag/manual-book-speedproject/
