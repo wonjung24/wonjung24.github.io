@@ -15,6 +15,9 @@
 
 자세히는 모르겠는데 뭔가 연결이 있는 것들
 
+신발 주머니 
+https://www.facebook.com/video.php?v=395382053942183
+
 비주얼 디텍티브 헤어벤
 https://www.facebook.com/thevisualdetective?fref=ts
 

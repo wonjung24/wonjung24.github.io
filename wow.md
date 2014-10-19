@@ -1,3 +1,5 @@
+종이로 카세트 뭐든지 알록달록하게 만드는 애들
+http://www.idnworld.com/creators/?id=ZimZou
 
 
 Braun Tube Jazz Band at REPAIR in Linz 2010 (Ars Electronica)
