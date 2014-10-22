@@ -189,7 +189,7 @@ http://www.masakokubo.co.uk/illustration/images/
 
 template: content
 #관찰 그리고 시선
-#3. 일상의 풍경, 사람들에게 의외의 연상이미지를 덮붙여 작업
+#3. 일상의 풍경, 사람들에게 의외의 연상이미지를 덧붙여 작업
 ##전혀 다른 사람, 공간으로 상상하고 접근
 
 ##예를 들면, 
