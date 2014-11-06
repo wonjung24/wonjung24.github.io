@@ -58,11 +58,17 @@ template: imgonly
 template: imgonly
 
 ###마로니에 공원에서 소규모 공연하는 사람들
-<img src="data/image09.JPG" width=300>
-<img src="data/image10.JPG" width=300>
-<img src="data/image11.JPG" width=300>
+<img src="data/image09.JPG" width=400>
+<img src="data/image10.JPG" width=400>
 
 
+
+---
+template: imgonly
+
+###마로니에 공원에서 소규모 공연하는 사람들
+
+<img src="data/image11.JPG" width=500>
 
 ---
 
