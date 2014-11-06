@@ -26,33 +26,39 @@ template: imgonly
 
 ###마로니에 공원에서 소규모 공연하는 사람들
 
-<img src="data/image01.JPG" width=300>
-<img src="data/image02.JPG" width=300>
-<img src="data/image03.JPG" width=300>
-<img src="data/image04.JPG" width=300>
+<img src="data/image01.JPG" width=400>
+<img src="data/image02.JPG" width=400>
+
+
+---
+template: imgonly
+
+###마로니에 공원에서 소규모 공연하는 사람들
+<img src="data/image03.JPG" width=400>
+<img src="data/image04.JPG" width=400>
 
 ---
 template: imgonly
 
 ###마로니에 공원에서 소규모 공연하는 사람들
 
-<img src="data/image05.JPG" width=300>
-<img src="data/image06.JPG" width=300>
+<img src="data/image05.JPG" width=400>
+<img src="data/image06.JPG" width=400>
 ---
 template: imgonly
 
 ###마로니에 공원에서 소규모 공연하는 사람들
 
 
-<img src="data/image07.JPG" width=300>
-<img src="data/image08.JPG" width=300>
+<img src="data/image07.JPG" width=400>
+<img src="data/image08.JPG" width=400>
+
+
+---
+template: imgonly
+
+###마로니에 공원에서 소규모 공연하는 사람들
 <img src="data/image09.JPG" width=300>
-
-
----
-template: imgonly
-
-###마로니에 공원에서 소규모 공연하는 사람들
 <img src="data/image10.JPG" width=300>
 <img src="data/image11.JPG" width=300>
 
