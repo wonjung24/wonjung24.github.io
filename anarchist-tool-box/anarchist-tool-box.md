@@ -16,7 +16,7 @@ class: center, middle, blackwave, imgonly
 layout: false
 template: title
 # 아나키스트 도구상자
-# #대학로에서 찾은 아나키스트들 
+##대학로에서 찾은 아나키스트들 
 ##노점상 사람들 타로,  점, 먹거리, 꽃
 ##버스킹하는 사람들 싱어송라이터, 타악기 연주자, 춤추는 그룹 
 ### 리서치 자료 10월 15일, 10월 26일
@@ -28,8 +28,8 @@ template: imgonly
 
 <img src="data/image01.JPG" width=300>
 <img src="data/image02.JPG" width=300>
-<img src="data/image03.JPG" width=400>
-<img src="data/image04.JPG" width=400>
+<img src="data/image03.JPG" width=300>
+<img src="data/image04.JPG" width=300>
 
 ---
 template: imgonly
