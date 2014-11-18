@@ -7,7 +7,7 @@
 [todo]()
 
   * [todo](todo.md)
-  * [nabiworkshop](nabiworkshop.md)
+  * [wetpapter](wetpaper.md)
 
 [research]()
 
