@@ -1,4 +1,7 @@
 
+기하학과 소리
+http://plentyofcolour.com/2011/02/24/we-love-geometry-in-black-white/
+
 
 
 살껀 다 샀고 워크숍에서 사람들이 서킷 그리는데...
