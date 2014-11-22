@@ -1,3 +1,9 @@
+맛을 가진 사물의 시각화 에 딱인
+http://amandaberglund.com/pizza-presto/
+
+ABC 드로잉
+http://www.loop-the-loop.com/alphabet-prints/
+
 종이로 카세트 뭐든지 알록달록하게 만드는 애들
 http://www.idnworld.com/creators/?id=ZimZou
 
