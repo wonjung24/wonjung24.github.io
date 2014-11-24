@@ -51,8 +51,80 @@ template: imgonly
 
 ###과정, 방법
 
-<img src="data/image18.jpg" width=400>
-<img src="data/image15.jpg" width=400>
+https://vimeo.com/77138894
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-05.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-01.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-02.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-03.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-03.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-04.jpg" width=400>
+
+---
+
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-06.jpg" width=400>
+
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-07.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-08.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-09.jpg" width=400>
 
 ---
 template: content
@@ -64,123 +136,94 @@ template: content
 ##애장품의 종류들 열거
 ##사물의 분해도 
 
+---
+template: imgonly
 
+###분해, 분류
 
+<img src="data/image01-01.jpg" width=400>
+
+---
+
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-02.jpg" width=700>
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-03.jpg" width=400>
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-04.jpg" width=400>
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-05.jpg" width=400>
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-06.jpg" width=400>
 
 ---
 template: imgonly
 
 ###분해, 분류
 
-<img src="data/image01.jpg" width=500>
+<img src="data/image01-08.jpg" width=400>
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-09.jpg" width=400>
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-10.jpg" width=700>
 
 ---
 template: imgonly
 
-###솔직한 발견, 호기심
+###분해, 분류
 
-<img src="data/image06.jpg" width=400>
-<img src="data/image06-1.jpg" width=400>
----
-template: imgonly
-
-###솔직한 발견, 호기심
-
-<img src="data/image07.jpg" width=400>
-<img src="data/image08.jpg" width=400>
-
-
+<img src="data/image01-11.jpg" width=700>
 
 ---
 template: imgonly
 
-###솔직한 발견, 호기심
+###분해, 분류
 
-<img src="data/image09.jpg" width=500>
+<img src="data/image02-11.jpg" width=700>
+
 
 ---
 template: imgonly
-
-###솔직한 발견, 호기심
-
-<img src="data/image10.jpg" width=500>
-
----
-template: imgonly
-
-###솔직한 발견, 호기심
-
-<img src="data/image11.jpg" width=400>
-<img src="data/image12.jpg" width=298>
-
----
-
-template: content
-#관찰 그리고 시선
-#1. 일기 같이 접근해보는것도 좋고
-#2. 낯설게 보기, 새롭게 보기 
-#3. 일상의 풍경, 사람들에게 의외의 연상이미지를 덧붙여 작업
-관찰 그리고 시선
-
+## A2 사이즈 이상 크게 
+##드로잉 위주, 사진 꼴라주 가능 
+##8컷 이상의  GiF _ 물론 출력본
 
 
 ---
 
-template: content
-#관찰 그리고 시선
-#1. 일기 같이 접근해보는것도 좋고
-##자주가는 가게 사람, 
-##집까지 가는 길 관찰(시간순서를 넣어)
-##매일 지나다니다 보면, 어떤날 특별한 사건이 발생할지도
+http://willscobie.co.uk/
 
-##예를 들면, 
+http://www.loop-the-loop.com/alphabet-prints/
 
-http://kerenpeng.com/Sketchbooks
+http://www.youtube.com/watch?v=gI04Nrz364M#t=18
 
-http://kerenpeng.com/On-My-Way-Home
-
-http://www.abouttoday.co.uk/Travel-Diaries
-
-http://cargocollective.com/michellejchun/Cut-Outs
-
-http://www.tipitin.com/shop/invasion-invasao-by-craig-atkinson
-
-
----
-
-template: content
-#관찰 그리고 시선
-#2. 새롭게 보기 
-## 관심 있는 열쇳말, 개념을 가지고 그것에 부합하는 것들만 찾아보기
-##자주 출몰하는 고양이들, 강아지들 관찰하고 , 맵을 그려본다던지
-##할머니 노숙자 여자들, 혹은 가방
-##사람들(기준을 두고_옷잘입은 사람, 양복을 입는 사람, 오토바이타는 사람)
-##특별한 풍경(철공소, 혹은 좁은 골목길)
-
-
-##예를 들면, 
-
-http://www.tizianajillbeck.de/indexhibit/index.php?/neu/casual-friday/
-
-http://www.idnworld.com/creators/?id=GraceLee
-
-http://www.masakokubo.co.uk/illustration/images/
-
----
-
-template: content
-#관찰 그리고 시선
-#3. 일상의 풍경, 사람들에게 의외의 연상이미지를 덧붙여 작업
-##전혀 다른 사람, 공간으로 상상하고 접근
-
-##예를 들면, 
-http://www.idnworld.com/creators/?id=JohnWoo
-
-http://tinanded.com.au/projects/distant-colony/
-
-http://tinanded.com.au/projects/united-eye/
-
-http://palefroi.tumblr.com/
-
+http://valleeduhamel.com/work/hermes-metamorphose/
 
 
