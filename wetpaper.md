@@ -1,3 +1,5 @@
+그래픽 연구
+http://cometsubstance.com/
 
 기하학과 소리
 http://plentyofcolour.com/2011/02/24/we-love-geometry-in-black-white/
