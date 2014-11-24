@@ -51,8 +51,8 @@ template: imgonly
 
 ###과정, 방법
 
-<img src="data/image03.jpg" width=400>
-<img src="data/image04.jpg" width=400>
+<img src="data/image18.jpg" width=400>
+<img src="data/image15.jpg" width=400>
 
 ---
 template: content
@@ -72,7 +72,7 @@ template: imgonly
 
 ###분해, 분류
 
-<img src="data/image05.jpg" width=500>
+<img src="data/image01.jpg" width=500>
 
 ---
 template: imgonly
