@@ -112,13 +112,6 @@ template: imgonly
 ###과정, 방법
 
 <img src="data/image02-08.jpg" width=400>
----
-
-template: imgonly
-
-###과정, 방법
-
-<img src="data/image02-09.jpg" width=400>
 
 ---
 template: content
