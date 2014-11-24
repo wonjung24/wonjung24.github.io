@@ -45,7 +45,7 @@ template: content
 ##골드버그 장치
 ##원미닛 비디오
 
-   ---
+---
 
 template: imgonly
 
