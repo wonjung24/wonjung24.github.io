@@ -219,6 +219,3 @@ http://www.loop-the-loop.com/alphabet-prints/
 http://www.youtube.com/watch?v=gI04Nrz364M#t=18
 
 http://valleeduhamel.com/work/hermes-metamorphose/
-
-
----
