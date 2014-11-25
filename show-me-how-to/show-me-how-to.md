@@ -205,11 +205,12 @@ template: imgonly
 ---
 template: imgonly
 ## A2 사이즈 이상 크게 
-##드로잉 위주, 사진 꼴라주 가능 
-##8컷 이상의  GiF _ 물론 출력본
+##드로잉 위주, 사진 꼴라주 가능   -> 포스터 혹은 핸드북 형태 
+##8컷 이상의  GiF _ 물론 출력본 -> 스
 
 
 ---
+template: imgonly
 
 http://willscobie.co.uk/
 
