@@ -114,6 +114,104 @@ template: imgonly
 <img src="data/image02-08.jpg" width=400>
 
 ---
+
+template: imgonly
+
+###과정, 방법
+
+https://vimeo.com/77138894
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-09.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-10.jpg" width=400>
+
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-11.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-12.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-13.jpg" width=400>
+
+---
+
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-14.jpg" width=400>
+
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-15.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-16.jpg" width=400>
+
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-17.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-18.jpg" width=400>
+
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-19.jpg" width=400>
+---
+
+template: imgonly
+
+###과정, 방법
+
+<img src="data/image02-20.jpg" width=400>
+
+---
 template: content
 
 
@@ -199,8 +297,14 @@ template: imgonly
 
 ###분해, 분류
 
-<img src="data/image02-11.jpg" width=500>
+<img src="data/image01-12.jpg" width=700>
 
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-13.jpg" width=700>
 
 ---
 template: imgonly
@@ -208,6 +312,62 @@ template: imgonly
 ##드로잉 위주, 사진 꼴라주 가능   -> 포스터 혹은 핸드북 형태 
 ##8컷 이상의  GiF _ 물론 출력본 -> 스
 
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-14.jpg" width=700>
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-15.jpg" width=700>
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-16.jpg" width=700>
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-17.jpg" width=700>
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-18.jpg" width=700>
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-19.jpg" width=700>
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-20.jpg" width=700>
+
+---
+template: imgonly
+
+###분해, 분류
+
+<img src="data/image01-21.jpg" width=700>
 
 ---
 template: imgonly
