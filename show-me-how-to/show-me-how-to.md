@@ -188,7 +188,7 @@ template: imgonly
 
 ###과정, 방법
 
-<img src="data/image02-18.jpg" width=400>
+<img src="data/image02-18.jpg" width=300>
 
 ---
 
