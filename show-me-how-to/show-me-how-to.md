@@ -277,28 +277,28 @@ template: imgonly
 
 ###분해, 분류
 
-<img src="data/image01-10.jpg" width=700>
+<img src="data/image01-10.jpg" width=400>
 
 ---
 template: imgonly
 
 ###분해, 분류
 
-<img src="data/image01-11.jpg" width=700>
+<img src="data/image01-11.jpg" width=400>
 
 ---
 template: imgonly
 
 ###분해, 분류
 
-<img src="data/image01-12.jpg" width=700>
+<img src="data/image01-12.jpg" width=400>
 
 ---
 template: imgonly
 
 ###분해, 분류
 
-<img src="data/image01-13.jpg" width=700>
+<img src="data/image01-13.jpg" width=400>
 
 
 ---
