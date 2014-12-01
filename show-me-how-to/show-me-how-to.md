@@ -188,7 +188,7 @@ template: imgonly
 
 ###과정, 방법
 
-<img src="data/image02-18.jpg" width=300>
+<img src="data/image02-18.jpg" width=280>
 
 ---
 
@@ -277,14 +277,14 @@ template: imgonly
 
 ###분해, 분류
 
-<img src="data/image01-10.jpg" width=400>
+<img src="data/image01-10.jpg" width=700>
 
 ---
 template: imgonly
 
 ###분해, 분류
 
-<img src="data/image01-11.jpg" width=400>
+<img src="data/image01-11.jpg" width=700>
 
 ---
 template: imgonly
