@@ -15,18 +15,21 @@ class: center, middle, blackwave, imgonly
 ---
 layout: false
 template: title
-#안녕하세요 
-#여러분 저희는 다이애나 밴드입니다. 
+# Local People Drawing 
+#동네사람 드로잉
+##_2nd Project
+### 함께 엮는 독립출판 형식
+
 
 ---
 template: content
-# 노래불러? 
+# 프로젝트 소개, 훑어보기
 
-#미디어아티스트 ! 백남준? 
+##>> 동네의 사람 혹은 공간 들여다보기 _ 관찰
 
-#백남준? 
+##>>  글쓰기를 통해 관심을 가지는 사람 혹은 공간의 종류에 대해 의미 분석  
 
-##www.dianaband.info
+##>> 4장의 이미지로 의도한, 혹은 의도하지 않은 이야기 만들어 보기
 
 ---
 
