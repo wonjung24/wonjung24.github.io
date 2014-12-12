@@ -15,7 +15,8 @@ class: center, middle, blackwave, imgonly
 ---
 layout: false
 template: title
-#안녕하세요 여러분 저희는 다이애나 밴드입니다. 
+#안녕하세요 
+#여러분 저희는 다이애나 밴드입니다. 
 
 ---
 template: content
