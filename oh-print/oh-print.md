@@ -20,14 +20,14 @@ template: title
 ---
 template: imgonly
 
-<img src="data/image01.jpg" width=500>
+<img src="data/image01.JPG" width=500>
 
 
 
 ---
 template: imgonly
 
-<img src="data/image02.jpg" width=300>
+<img src="data/image02.JPG" width=300>
 
 http://www.dianaband.info
 ---
@@ -40,7 +40,7 @@ template: imgonly
 ---
 template: imgonly
 
-<img src="data/image03.jpg" width=600>
+<img src="data/image03.JPG" width=600>
 ---
 template: imgonly
 ## 예전에는 이렇게 접근
@@ -51,7 +51,7 @@ template: imgonly
 template: imgonly
 
 ##막바지 작업실 풍경
-<img src="data/image04.jpg" width=600>
+<img src="data/image04.JPG" width=600>
 
 ---
 template: imgonly
