@@ -2,7 +2,7 @@
 
 [daystory]()
 
-  *// [daystory](daystory.md)
+  * [daystory](daystory.md)
 
 [todo]()
 
