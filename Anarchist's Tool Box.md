@@ -1,3 +1,8 @@
+
+아나키스트 쿡북
+http://www.autostraddle.com/anarchist-housewife-the-kit-109550/
+http://bnrg.cs.berkeley.edu/~randy/Courses/CS39K.S13/anarchistcookbook2000.pdf
+
 개인게인회(가제)
 
 개인의 표현도구를 만든다. 그것을 악기라고 혹은 사물이라고 불러도 좋다 
