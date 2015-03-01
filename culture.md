@@ -1,3 +1,7 @@
+
+시몽동책 교보에서 확인
+http://www.yes24.com/24/viewer/preview11st/5783900
+
 saloon 이라는 영국의 인디밴드 이제 2004 disband
 
 
