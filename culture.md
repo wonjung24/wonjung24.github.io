@@ -1,3 +1,5 @@
+yumbo / sendai 지역 밴드
+http://red.ap.teacup.com/yumbo/
 
 시몽동책 교보에서 확인
 http://www.yes24.com/24/viewer/preview11st/5783900
