@@ -1,3 +1,7 @@
+레드워먼 포스터 워크숍
+https://seeredwomensworkshop.wordpress.com/#jp-carousel-55
+
+
 크리티컬 메이킹
 https://s3-ap-northeast-1.amazonaws.com/apap2013-production/apap_attachments/attach_kos/92/original/%EB%A7%8C%EB%93%A4%EC%9E%90_%EB%A7%88%EB%9D%BC%ED%86%A4_%EC%9D%BD%EA%B8%B0%EA%BE%B8%EB%9F%AC%EB%AF%B8_%EB%B9%84%ED%8F%89%EC%A0%81%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf
 
