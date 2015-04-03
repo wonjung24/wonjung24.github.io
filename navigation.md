@@ -13,6 +13,8 @@
 
 [research]()
 
+  * [RE2014](RE2014.md)
+  * [manualcafe](manualcafe.md)
   * [unmake](unmakelab.md)
   * [As Is Club](asisclub.md)
   * [zine sprint](zine-collab.md)
