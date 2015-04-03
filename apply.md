@@ -1,6 +1,9 @@
 텔레포니카. 바로 셀로나 2015 4월 17일까지 
 http://www.laboralcentrodearte.org/en/r/convocatorias/nextthings15
 
+소액다컴 매월 10일까지 접수
+http://www.sfac.or.kr/html/opensquare/notice.asp?SearchCategory=&SearchYear=&SearchKey=&SearchValue=&SearchStart=&SearchFinal=&flag=READ&Page=1&Seq=29692
+
 파일 콜포 1월 15일까지
 http://file.org.br/highlight/file-2015-call-for-entries/
 
