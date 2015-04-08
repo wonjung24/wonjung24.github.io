@@ -15,7 +15,7 @@ class: center, middle, blackwave, imgonly
 ---
 layout: false
 template: title
-B-Y-O-P
+#B-Y-O-P
 ##Bring Your Own Phone
 ##당신의 폰을 가져오세요
 ---
