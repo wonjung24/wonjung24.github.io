@@ -5,13 +5,13 @@ class: center, blackwave, middle, title
 name: content
 layout: true
 class: left, middle, blackwave, content
-.footnote[Local people drawing / 2nd project / together binding]
+.footnote[Manual: B-Y-O-P]
 ---
 name: imgonly
 layout: true
 class: center, middle, blackwave, imgonly
 
-.footnote[Local people drawing / 2nd project / together binding]
+.footnote[Manual: B-Y-O-P]
 ---
 layout: false
 template: title
@@ -20,30 +20,15 @@ template: title
 ##당신의 폰을 가져오세요
 ---
 template: content
-#BYOP(Bring Your Own Phone). 여기서 폰이란 스마트 폰을 말한다. 불이 꺼지면 새까맣고, 그래서 얼굴이 비치고, 이빨에 끼인 고춧가루를 확인할 수 있는 그 넙적한 그것 말이다. 스마트 폰은 이름부터가 못마땅하다. 폰이 그냥 폰이지 스마트할 껀 뭐람. 나보다 스마트해 보이는 그 녀석. 스마트 폰을 쓰는 사람은 스마트 한 걸까? 6자유도 센서와 나침반 센서를 내장하고, 위성과 통신하며 GPS로 내가 지금 어딜 바라보고 있는지 금세 알아맞히지만 화면이 꺼지면, 검은 스크린은 차가워서 얼음처럼 쨍하다.
--우린 대화가 필요해! 나와 진짜로 연결되어 줘. 같이 놀자. 스마트한 ‘폰 놀이만’씨.
+#BYOP(Bring Your Own Phone). 여기서 폰이란 스마트 폰을 말한다. 불이 꺼지면 새까맣고, 그래서 얼굴이 비치고, 이빨에 끼인 고춧가루를 확인할 수 있는 그 넙적한 그것 말이다. 스마트 폰은 이름부터가 못마땅하다. 폰이 그냥 폰이지 스마트할 껀 뭐람. 나보다 스마트해 보이는 그 녀석. 스마트 폰을 쓰는 사람은 스마트 한 걸까? 6자유도 센서와 나침반 센서를 내장하고, 위성과 통신
 
 ---
 
 template: content
 
-#과정과 일정
+#하며 GPS로 내가 지금 어딜 바라보고 있는지 금세 알아맞히지만 화면이 꺼지면, 검은 스크린은 차가워서 얼음처럼 쨍하다.
+-우린 대화가 필요해! 나와 진짜로 연결되어 줘. 같이 놀자. 스마트한 ‘폰 놀이만’씨.
 
-##1. 동네사람들, 공간, 사물, 요소를 관찰하고 기록
-###    현장에서 생생하게 드로잉을 하거나, 사진 혹은 사운드 레코딩하는 방법
-##2. 찾은 사람의 종류나 요소들을 분류하고 집중할 소재를 결정
-###  소재 결정 후 다시 동네로 나가서, 그 소재에 부합하는 것을 다시 수집 그리고 기록
-###    실내에서 기록된 것을 보고 간단하게 드로잉 및 사진 꼴라주 시각화
-##3. 글쓰기 (분량 A4 반페이지 정도)
-###    관찰과정에서 재발견한 것 설명, 
-###    소재의 의미, 느낌을 형용사 등으로 언어화
-###    연상되거나 덧붙이는 이미지를 구술
-##4. 글쓰기를 통해 동네 사람들과 동네에 대해 하고 싶은 이야기를 도출
-##5. 찾은 시각 요소들 화면에 재조합( A4)
-###    사용하고 싶은 재료, 방식을 써서 드로잉, 꼴라쥬 할 수 있음 
-###    여러가지 이미지 재조합 시리즈 만들기 (A4 4장)
-
-   
 
 ---
 template: content
