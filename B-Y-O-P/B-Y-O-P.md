@@ -4,7 +4,7 @@ class: center, blackwave, middle, title
 ---
 name: content
 layout: true
-class: left, middle, blackwave, content
+class: left, top, blackwave, content
 .footnote[Manual: B-Y-O-P]
 ---
 name: imgonly
