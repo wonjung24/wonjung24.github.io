@@ -1,3 +1,6 @@
+오토마타 키네틱
+https://www.youtube.com/watch?v=0gjyVqwrf3E#t=33
+
 http://partparcelny.com/studio/media-that-matters-11
 
 맛을 가진 사물의 시각화 에 딱인
