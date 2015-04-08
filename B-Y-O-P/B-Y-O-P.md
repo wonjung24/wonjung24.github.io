@@ -15,11 +15,9 @@ class: center, middle, blackwave, imgonly
 ---
 layout: false
 template: title
-# Local People Drawing 
-#동네사람 드로잉
-##_2nd Project
-### 함께 엮는 독립출판 형식
-
+# B-Y-O-P
+##Bring Your Own Phone
+##당신의 폰을 가져오세요
 
 ---
 template: content
