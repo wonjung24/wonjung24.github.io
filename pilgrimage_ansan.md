@@ -9,9 +9,6 @@ http://ss.ize.kr/tag/Francis%20Alys
 
 
 
-playable city 영국 데드라인 4월 7
-http://www.watershed.co.uk/playablecity/playable-city-2015-submission
-
 ALLORA & CALZADILLA 오토바이에 트럼펫
 http://www.gladstonegallery.com/artist/allora-calzadilla/work#&panel1-11
 
