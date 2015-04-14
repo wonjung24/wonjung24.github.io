@@ -33,25 +33,12 @@ template: content
 ---
 template: content
 
-#과정과 일정
-
-##6. 만든 이미지들을 발표, 모두 같이 보기 
-##7. 각자 만들어낸 작업물을 비슷한 주제나 표현 방식끼리 
-##3~5명 서로 묶어 한권의 책을 만듬 
-###    이미지들이 서로 엮이면서 생기는 이야기들 살펴보기 (스토리텔링) 
-###  책 표지, 폰트도 고르고
-##8. 소책자를 발표하고 작업물 서로 보기
-
-##1주 >> cover 1 2
-##2주 >> cover 3 4 5 
-##3주 >> cover 6 7
-##4주 >> cover 8
+1
 
 ---
 template: imgonly
 
-###솔직한 발견, 호기심
-
+Mobmuplat 어플리케이션을 설치한다 
 <img src="data/image01.jpg" width=400>
 <img src="data/image02.jpg" width=400>
 ---
