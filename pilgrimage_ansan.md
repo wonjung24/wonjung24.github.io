@@ -1,4 +1,13 @@
 
+<img src="data/img08.jpg" width=600px />
+<img src="data/img07.jpg" width=600px />
+<img src="data/img06.jpg" width=600px />
+<img src="data/img05.jpg" width=600px />
+<img src="data/img04.jpg" width=600px />
+<img src="data/img03.jpg" width=600px />
+<img src="data/img02.jpg" width=600px />
+<img src="data/img01.jpg" width=600px />
+
 프란시스 알리스의 작업들 
 이스라엘 접경지역 페인트통 뿌리고 다니기 
 http://m.g-enews.com/ko-kr/news/article/sh/201412061121090127401_1/%27%EC%B1%84%EC%9B%80%27%EA%B3%BC+%27%EB%B9%84%EC%9B%80%27%EC%9D%98+%EC%A1%B0%ED%99%94%E2%80%A6%EC%9D%B8%EC%83%9D+%EC%97%AC%EC%A0%95%EC%9D%80+%EC%9D%B4%EB%9F%B0+%EA%B2%83%3F.html
@@ -14,5 +23,3 @@ http://www.gladstonegallery.com/artist/allora-calzadilla/work#&panel1-11
 
 순례길 처음 생각난게, 요아브의 작업이 제일 먼저 생각남 
 http://www.yoavadmoni.com/#!circular-pilgrimage/c9ce
-
-<img src="data/img.jpg" width=500px />

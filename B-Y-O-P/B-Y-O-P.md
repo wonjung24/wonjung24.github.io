@@ -33,12 +33,13 @@ template: content
 ---
 template: content
 
-1
+
+#1 Mobmuplat 어플리케이션을 설치한다
 
 ---
 template: imgonly
 
-Mobmuplat 어플리케이션을 설치한다 
+
 <img src="data/image01.jpg" width=400>
 <img src="data/image02.jpg" width=400>
 ---
