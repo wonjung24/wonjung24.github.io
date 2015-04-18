@@ -1,12 +1,12 @@
 
-<img src="data/img08.jpg" width=600px />
-<img src="data/img07.jpg" width=600px />
-<img src="data/img06.jpg" width=600px />
-<img src="data/img05.jpg" width=600px />
-<img src="data/img04.jpg" width=600px />
-<img src="data/img03.jpg" width=600px />
-<img src="data/img02.jpg" width=600px />
-<img src="data/img01.jpg" width=600px />
+<img src="data/img08.jpg" width=400px />
+<img src="data/img07.jpg" width=400px />
+<img src="data/img06.jpg" width=400px />
+<img src="data/img05.jpg" width=400px />
+<img src="data/img04.jpg" width=400px />
+<img src="data/img03.jpg" width=400px />
+<img src="data/img02.jpg" width=400px />
+<img src="data/img01.jpg" width=400px />
 도레미파솔라시도 여덟가지 핸드벨(손에 쥐고 흔들어 음을 내는 악기)을 매고, 발걸음 한번 딛을 때마다 임의의 한 음이 소리난다 
 혹은 동요나, 국가송이나 노래가 연주될수도 있을 꺼다 ... 
 매캬닉과 일렉트로닉을 둘다 사용할지, 매캬닉으로만 구현할 수 있을지는 잘 모르겠다. 
