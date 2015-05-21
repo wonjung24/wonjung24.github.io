@@ -35,7 +35,7 @@
 [tool]()
 
   * [tool](tool.md)
-  * [eletro](eletro.md)
+  * [electro](electro.md)
   * [apply](apply.md)
   
 
