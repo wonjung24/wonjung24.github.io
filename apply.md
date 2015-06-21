@@ -1,3 +1,21 @@
+2015 6월 말까지 프로젝트 지원서를 영문으로 하나 만들어서 여러 레지던시 프로그램에 지원 해볼것 
+
+1. 
+
+
+2. 덴마크 아트 워크숍 아트앤 디자인 
+   http://online.arko.or.kr/page/residencyview.jsp?idx=32393
+
+3. 북 아일랜드 디지털 아트 레지던시 
+http://online.arko.or.kr/page/residencyview.jsp?idx=32376
+
+4. 아이빔 레지던시 6월 26일까지
+http://online.arko.or.kr/page/residencyview.jsp?idx=32761
+
+
+
+
+----------------------------------------------------------------------------------------------------
 스티뮬링스펀드 이컬쳐 일년에 네번 5월 13일까지
 http://stimuleringsfonds.nl/en/grants/grant_programme_for_e_culture/
 
