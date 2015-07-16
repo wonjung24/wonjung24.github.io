@@ -1,3 +1,7 @@
+http://www.phy.mtu.edu/~suits/notefreqs.html
+Frequencies for equal-tempered scale, A4 = 440 Hz
+
+https://github.com/sensorium/Mozzi/blob/master/mozzi_midi.cpp
 
 핸드밸 종 다양한 음
 http://item2.gmarket.co.kr/Item/detailview/Item.aspx?goodscode=454008914&search_keyword=

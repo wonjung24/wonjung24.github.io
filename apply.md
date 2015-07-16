@@ -1,19 +1,15 @@
-2015 6월 말까지 프로젝트 지원서를 영문으로 하나 만들어서 여러 레지던시 프로그램에 지원 해볼것 
 
-1. 
+광주 창제작센터 레지던시 공모  8월 9일까지
+http://acccreation.kr/kr/act-residency-2015/
 
+광주 미디어아트 전시 공모  7월 29일까지
+http://www.gjcf.or.kr/bbs/board.php?bo_table=notice&wr_id=1291
 
-2. 덴마크 아트 워크숍 아트앤 디자인 
-   http://online.arko.or.kr/page/residencyview.jsp?idx=32393
+청년활 청년허브 7월 20일 12시까지
+http://youthhub.kr/notices/559bd6a2cf977204440002d0
 
-3. 북 아일랜드 디지털 아트 레지던시 
-http://online.arko.or.kr/page/residencyview.jsp?idx=32376
-
-4. 아이빔 레지던시 6월 26일까지
-http://online.arko.or.kr/page/residencyview.jsp?idx=32761
-
-
-
+tacticaltech 레지던시 프로그램 7월 23일까지
+https://tacticaltech.org/residency2015
 
 ----------------------------------------------------------------------------------------------------
 스티뮬링스펀드 이컬쳐 일년에 네번 5월 13일까지
