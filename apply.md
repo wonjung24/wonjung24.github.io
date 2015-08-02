@@ -10,6 +10,8 @@ http://festival.j-mediaarts.jp/en/
 광주 창제작센터 레지던시 공모  8월 9일까지
 http://acccreation.kr/kr/act-residency-2015/
 
+800/40 240 전시 24 레지던시
+
 소액다컴  매월 10일까지
 http://www.sfac.or.kr/html/opensquare/notice.asp?SearchCategory=&SearchYear=&SearchKey=&SearchValue=&SearchStart=&SearchFinal=&flag=READ&Page=1&Seq=31484
 
