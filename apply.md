@@ -1,3 +1,5 @@
+http://www.callfor.org/info/  <-- 여기서 정보를 찾자 
+
 
 트렌스미디어날레 오픈콜 9월 15일까지
 http://www.ctm-festival.de/festival-2016/radio-lab-call-for-works/?no_cache=1
