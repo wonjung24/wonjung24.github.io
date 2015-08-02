@@ -1,6 +1,15 @@
 
+트렌스미디어날레 오픈콜 9월 15일까지
+http://www.ctm-festival.de/festival-2016/radio-lab-call-for-works/?no_cache=1
+
+제팬 미디어아트페스티발  9월9일까지
+http://festival.j-mediaarts.jp/en/
+
 광주 창제작센터 레지던시 공모  8월 9일까지
 http://acccreation.kr/kr/act-residency-2015/
+
+소액다컴  매월 10일까지
+http://www.sfac.or.kr/html/opensquare/notice.asp?SearchCategory=&SearchYear=&SearchKey=&SearchValue=&SearchStart=&SearchFinal=&flag=READ&Page=1&Seq=31484
 
 광주 미디어아트 전시 공모  7월 29일까지
 http://www.gjcf.or.kr/bbs/board.php?bo_table=notice&wr_id=1291
