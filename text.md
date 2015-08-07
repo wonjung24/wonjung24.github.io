@@ -1,6 +1,6 @@
 https://www.google.co.kr/url?sa=t&rct=j&q&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAA&url=http%3A%2F%2Fwww.ksasa.org%2FNFUpload%2Fnfupload_down.php%3Ftmp_name%3D20131122140529.5230.9.1%26name%3D34%25EC%25A7%2591-%25EB%25AF%25B8%25ED%2595%2599%25C2%25B7%25EC%2598%2588%25EC%2588%25A0%25ED%2595%2599%25EC%2597%25B0%25EA%25B5%25AC(10_%25EA%25B9%2580%25EA%25B8%25B0%25EC%2588%2598).pdf&ei=XLmWVbODLYmj8QWsyovAAw&usg=AFQjCNFaconCoNJpUltEVHKlriO5rV3KmQ&sig2=Q1dNlvzb87ENF8b83vpGIA&bvm=bv.96952980%2Cd.dGc
 
-김가수
+김가수미학·예술학연구/ 관계 미학
 
 정희진 평화학 연구자
 영어, 무기(arms)의 어원은 팔이다. 팔을 뻗을 수 있는 거리까지가 자기 방어의 범위다. 그 길이는 곧 타인과의 거리가 된다. 남성들의 멀리 오줌 싸기 경쟁도 비슷한 원리다. 이처럼 몸의 확장은 영역 표시, 힘을 의미한다. 사정(射程/‘射精’)거리가 딱 그 말이다.
