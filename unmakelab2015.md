@@ -21,9 +21,20 @@ sound in the cloud  개념들을 좀 볼만 할 것 같고
 http://www.wolkenmusik.de/
 이건 게임 하고 사람들이 자신들의 프로젝트를 할 수 있도록 유도하는 방법 좀 볼 만할 것 같고 
 http://livingspaces.pixelache.ac/festivals/festival-2015/gaming-the-system
+그리고 해커스앤디자이너스
+http://hackersanddesigners.nl/
+pret park
+http://www.mediamatic.net/363388/en/pret-park
 
 나는 자꾸 합일을 추구하는 것이 문제다. 작년에도 언메이크 랩에서 나는 어떻게 해야할지 조금 어려웠는데. 올해도 어렵다. 
 내가 강박적으로 빈공간을 못 보는 사람이라 그런 거라 생각한다. 
 
 우리의 작업하는 과정 방식이 어느정도 픽스되지 못 해서, 자꾸 워크숍하거나 청개구리 제작소와 무얼 한다는게 어렵게 느껴지는 걸지도. 
 매번 모든게 어렵나 ㅠㅠ 
+
+
+------------------
+
+ <img src="data/img11.jpg" width=400px />
+간디의 소금행
+ 
