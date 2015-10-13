@@ -1,3 +1,6 @@
+로프 묶는 방법
+https://www.facebook.com/decoracionestilomodabelleza/videos/1158015547559306/
+
 오토마타 키네틱
 https://www.youtube.com/watch?v=0gjyVqwrf3E#t=33
 
