@@ -16,6 +16,7 @@
   * [unmakelab2015](unmakelab2015.md)
   * [pilgrimage_ansan](pilgrimage_ansan.md)
   * [manualcafe](manualcafe.md)
+  * [study](study.md)
   * [RE2014](RE2014.md)
 
 
