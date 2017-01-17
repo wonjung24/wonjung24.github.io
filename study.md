@@ -1,3 +1,7 @@
+supercolider 
+arg=argument 인수 var=variable 변수 mul=multifly 곱하기 sig=signal 
+
+
 노이즈 저작권과 관련된 이야기 
 http://mattin.org/essays/Mattin-ANTI-COPYRIGHT.html
 

@@ -1,3 +1,31 @@
+
+서교예술실험센터 _ 공간 지원 1월 22일까지 
+http://www.sfac.or.kr/html/opensquare/notice.asp?flag=READ&Seq=40268
+
+sema 2017 신진미술인 전시지원 프로그램 모집 요강 017. 1. 23(월) ~ 1. 31(화)
+http://sema.seoul.go.kr/korean/infocus/news_info.jsp?search_boardId=1325
+
+2017 글렌피딕 아티스트 인 레지던스 공모전 1월 31일까지 
+http://arthub.co.kr/sub04/board01_view.htm?No=12467&page=1&sType1=1&sType2=2&sType3=3&sType4=
+
+
+2017 아이공 신진작가 공모 2016.1.4 – 1.25
+http://www.igong.org/webbs/view.php?board=notice&id=370&page=1
+
+아르스 일렉트로니카  1.11~~
+http://www.aec.at/prix/en/
+
+A Sense of place / 2월 13일까지 
+http://balance-unbalance2017.org/call-for-participation/
+
+베를린 3월30
+http://form.jotform.com/artcall/artestessairesidency2017
+
+안티컨템포러리 아트 페스티발 1월 22일까지 
+http://antifestival.com/en/open-call-for-projects-papers-and-presentations-2017/
+
+------------------------
+
 http://www.callfor.org/info/  <-- 여기서 정보를 찾자 
 
 10월 30일까지 데드라인 싱가폴 미디어아트 페스티
