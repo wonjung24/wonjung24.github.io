@@ -1,3 +1,12 @@
+자크 랑시에르  / 감각적인 것의 나
+http://rikszine.korea.ac.kr/front/article/humanList.minyeon?selectArticle_id=375
+https://culturalaspect.wordpress.com/2012/12/25/%EB%AF%B8%ED%95%99%EC%9D%80-%EA%B0%90%EA%B0%81%EC%A0%81-%EA%B2%BD%ED%97%98%EC%9D%84-%EB%B6%84%EB%B0%B0%ED%95%98%EB%8A%94-%EC%B2%B4%EC%A0%9C%EB%8B%A4-%EB%9E%91%EC%8B%9C%EC%97%90%EB%A5%B4/책
+
+file:///Users/orfiso/Desktop/06_%C2%BC%C2%BA%C2%B1a%CC%82C%CC%A7o%CC%88.pdf
+
+안토니오 네그리 예술과 다중 
+
+
 보이는 것과 들리는 것이라는 존재방식은 근본적으로 다르다. 보이는 것은 시간속에서 지속되지만, 들리는 것은 시간속으로 사라진다. 시각은 항구적이고 지속적으로 존재하는 것과 관계하지만, 청각은 일시적이고 덧없고 사건적인 것과 관계한다. 볼프강 벨슈의 미학의경계를넘어 중 253p
 
 예술을 통해 사람들을 고통에서 구원해줄 수 있다고 생각한다는 뜻인가?
