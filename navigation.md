@@ -7,18 +7,19 @@
   * [2014](2014.md)
 
 
-[todo]()
-
-  * [todo](todo.md)
-  * [wetpaper](wetpaper.md)
-
-[research]()
+[yesterday]()
 
   * [unmakelab2015](unmakelab2015.md)
   * [pilgrimage_ansan](pilgrimage_ansan.md)
-  * [manualcafe](manualcafe.md)
-  * [study](study.md)
+  * [todo](todo.md)
+  * [wetpaper](wetpaper.md)
   * [RE2014](RE2014.md)
+
+[research]()
+
+  * [cur·ric·u·lum](cur·ric·u·lum)
+  * [study](study.md)
+
 
 
 
