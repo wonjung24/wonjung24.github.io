@@ -11,7 +11,7 @@
 [yesterday]()
 
   * [unlanguaged](unlanguaged.md)
-  * [languaged](lnaguaged.md)
+  * [languaged](languaged.md)
   * [act](act.md)
 
 [study]()
