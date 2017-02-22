@@ -10,20 +10,16 @@
 
 [yesterday]()
 
-  * [unmakelab2015](unmakelab2015.md)
-  * [pilgrimage_ansan](pilgrimage_ansan.md)
-  * [todo](todo.md)
+  * [unlanguaged](unlanguaged.md)
+  * [languaged](lnaguaged.md)
+  * [act](act.md)
   * [wetpaper](wetpaper.md)
-  * [RE2014](RE2014.md)
 
-[research]()
+[study]()
 
-  * [cur·ric·u·lum](cur·ric·u·lum)
   * [study](study.md)
-
-
-
-
+  * [cur·ric·u·lum](cur·ric·u·lum)
+  * [electro](electro.md)
 
 
 
@@ -40,7 +36,6 @@
 [tool]()
 
   * [tool](tool.md)
-  * [electro](electro.md)
   * [apply](apply.md)
   
 
