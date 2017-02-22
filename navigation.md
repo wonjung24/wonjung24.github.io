@@ -13,7 +13,6 @@
   * [unlanguaged](unlanguaged.md)
   * [languaged](lnaguaged.md)
   * [act](act.md)
-  * [wetpaper](wetpaper.md)
 
 [study]()
 
