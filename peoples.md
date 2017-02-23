@@ -1,3 +1,7 @@
+
+amanda heng / let's walk  
+http://www.drailedmag.com/2016/07/08/amanda-heng-the-braided-spirit-of-singaporean-contemporary-art/
+
 리듬 사운드를 떠올리게 하는 그래픽 만드는 디자이너
 https://www.ronnyhunger.com/
 
