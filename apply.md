@@ -1,3 +1,6 @@
+코가네초 3월 5일 까지 프로젝트 공모
+http://koganecho.net/koganecho-bazaar-2017/e20170201.html
+
 노르딕 프린지 네트워크 3월 5일까지 
 http://www.callfor.org/22273-2/
 
