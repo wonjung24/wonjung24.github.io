@@ -38,9 +38,21 @@ https://www.youtube.com/watch?feature=player_embedded&v=ZedESyQEnMA
 http://ss.ize.kr/tag/Francis%20Alys
 
 
-
+-----------
 ALLORA & CALZADILLA 오토바이에 트럼펫
 http://www.gladstonegallery.com/artist/allora-calzadilla/work#&panel1-11
 
 순례길 처음 생각난게, 요아브의 작업이 제일 먼저 생각남 
 http://www.yoavadmoni.com/#!circular-pilgrimage/c9ce
+
+
+사물놀이 
+
+일상의 사물 표현의 정치 
+일반 사람들의 목소리 소리 만들어내기 쉽게 연주하기 
+
+
+쉽게 연주하기
+악기를 하나 배운다 
+
+퍼레이드

@@ -1,3 +1,8 @@
+final cut pro 
+하나의 클립 칼라발란스 맞춰 놓고 다른 클립들도 같은 발란스로 한꺼번에 맞추고 싶을때 
+기본되는 클립 클릭하고 command c 그런다음 적용하고 싶은 클립들 클릭하고 option command b
+
+
 supercolider 
 arg=argument 인수 var=variable 변수 mul=multifly 곱하기 sig=signal 
 
