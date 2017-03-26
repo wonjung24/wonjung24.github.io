@@ -1,3 +1,6 @@
+3월 31일까지 사운드아트 페스티
+http://in-sonora.org/ficha-convocatoria/convocatoria-open-call-in-sonora-10/
+
 코가네초 3월 5일 까지 프로젝트 공모
 http://koganecho.net/koganecho-bazaar-2017/e20170201.html
 
