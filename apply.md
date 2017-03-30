@@ -1,3 +1,19 @@
+4월 30일까지 UK 디지털아티스트레지던시
+http://digitalartistresidency.org/opportunities/
+
+4월 22일까지  이탈리아 컨템포러리 퍼포먼스 괜
+http://on-the-move.org/news/article/18407/crossaward-italy/
+
+4월 16일 두달레지던시 심각한 사운드 아트 쪽
+https://almat.iem.at/call.html춘
+
+4월 12일까지 이탈리아 라이브퍼포먼스 레지던스 7월 시행
+http://www.liveworksaward.com/media/
+http://www.liveworksaward.com/live-works-2017/
+
+
+---------------------
+
 3월 31일까지 사운드아트 페스티
 http://in-sonora.org/ficha-convocatoria/convocatoria-open-call-in-sonora-10/
 
