@@ -11,6 +11,12 @@ https://almat.iem.at/call.html춘
 http://www.liveworksaward.com/media/
 http://www.liveworksaward.com/live-works-2017/
 
+4월 12일까지 브라운슈바익 3개월 6개월 장기 레지던스 1250유로 매달 / 사운드 아트 지
+http://online.arko.or.kr/page/resourceview.jsp?idx=36697
+원
+
+4월 22일까지 cross award 이탈리아 레지던시 시키고 나중에 상금 한명 몰
+http://online.arko.or.kr/page/resourceview.jsp?idx=36659
 
 ---------------------
 
