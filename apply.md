@@ -1,3 +1,10 @@
+대반 레지던시 내년 봄 6월 9일까지 
+http://online.arko.or.kr/page/residencyview.jsp?idx=37300
+
+
+-------------
+
+
 4월 30일까지 UK 디지털아티스트레지던시
 http://digitalartistresidency.org/opportunities/
 
